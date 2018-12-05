@@ -1,0 +1,461 @@
+{
+    "colorlist": [
+        {
+            "linkcnname": "测试01台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 15,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试02台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 16,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试03台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 17,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试04台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 18,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试05电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 19,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试06电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 20,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试007电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 11,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试0008电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 12,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试00009电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 10,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试010电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 13,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试11电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 14,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试12电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 9,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试13电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 25,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试14电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 24,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试15电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 23,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试16电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 22,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试17电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 21,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试18电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 26,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试19电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 27,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试20电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 28,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试21电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 35,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试22电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 34,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试23电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 33,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试24电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 32,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试25电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 36,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试26电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 37,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试27电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 38,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试28电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 39,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试29电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 40,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试30电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 41,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试31电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 42,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试32电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 43,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试33电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 44,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试34电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 45,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试35电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 46,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试36电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 47,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试37电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 48,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试38电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 49,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试39电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 50,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试40电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 51,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试41电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 52,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试42电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 53,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试43电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 54,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试44电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 55,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试45电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 56,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试46电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 57,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试47电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 58,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试48电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 59,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试49电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 60,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试50电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 61,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试51电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 62,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试52电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 63,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试53电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 64,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试54电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 65,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试55电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 66,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试56电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 67,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试57电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 68,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试58电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 69,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试59电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 70,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试60电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 71,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试61电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 72,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试62电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 73,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试63电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 74,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试64电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 75,
+            "linkplayid": 881
+        },
+        {
+            "linkcnname": "测试65电视台",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkcategoryid": 3,
+            "linkmainid": 76,
+            "linkplayid": 881
+        }
+    ],
+    "updatetime": 1468824150,
+    "expiretime": 30
+}

@@ -1,0 +1,93 @@
+[
+    {
+        "info": {
+            "first_name": "George",
+            "last_name": "Bush",
+            "email": "1@1.com",
+            "phone_number": "1234567890",
+            "card_number": "************5678",
+            "card_expire_month": "11",
+            "card_expire_year": "19"
+        },
+        "card": {
+            "card_number": "************5678",
+            "card_first_name": "George",
+            "card_last_name": "Bush",
+            "card_expire_month": "11",
+            "card_expire_year": "19",
+            "card_security_code": "123",
+            "card_address_1": "7926 Jones Branch Dr.",
+            "card_address_2": "Ste. 120",
+            "card_city": "Mclean",
+            "card_state": "VA",
+            "postcode": "22102",
+            "card_status": 1
+        },
+        "password": "111111",
+        "token": "",
+        "medal": "",
+        "state": 2,
+        "allow_promotion": 0,
+        "error_count": 0
+    },
+    {
+        "info": {
+            "first_name": "Bill",
+            "last_name": "Clinton",
+            "email": "a@a.aa",
+            "phone_number": "9876543210",
+            "card_number": "************4321",
+            "card_expire_month": "06",
+            "card_expire_year": "17"
+        },
+        "card": {
+            "card_number": "************4321",
+            "card_first_name": "Bill",
+            "card_last_name": "Clinton",
+            "card_expire_month": "06",
+            "card_expire_year": "17",
+            "card_security_code": "999",
+            "card_address_1": "75 Ninth Avenue",
+            "card_address_2": "2nd and 4th Floors",
+            "card_city": "New York",
+            "card_state": "NY",
+            "postcode": "10011"
+        },
+        "password": "111111",
+        "token": "",
+        "medal": "",
+        "state": 2,
+        "allow_promotion": 0,
+        "error_count": 0
+    },
+    {
+        "info": {
+            "first_name": "Testf",
+            "last_name": "Testl",
+            "email": "l@l.ll",
+            "phone_number": "1231231231",
+            "card_number": "************5566",
+            "card_expire_month": "09",
+            "card_expire_year": "18"
+        },
+        "card": {
+            "card_number": "************5566",
+            "card_first_name": "Haha",
+            "card_last_name": "Hehe",
+            "card_expire_month": "09",
+            "card_expire_year": "18",
+            "card_security_code": "123",
+            "card_address_1": "75 Ninth Avenue",
+            "card_address_2": "2nd and 4th Floors",
+            "card_city": "New York",
+            "card_state": "NY",
+            "postcode": "10011"
+        },
+        "password": "111111",
+        "token": "",
+        "medal": "",
+        "state": 2,
+        "allow_promotion": 0,
+        "error_count": 0
+    }
+]

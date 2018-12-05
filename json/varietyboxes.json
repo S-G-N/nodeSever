@@ -1,0 +1,258 @@
+{
+    "colorlist": [
+        {
+            "linkcnname": "测试综艺1",
+            "colorposname": "测试节目测试综艺~~~",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2255,
+            "linksubid": 6,
+            "linkplayid": "4-1"
+        },
+        {
+            "linkcnname": "测试综艺2",
+            "colorposname": "测试节目测试综艺~~~~",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2235,
+            "linksubid": 25,
+            "linkplayid": "4-2"
+        },
+        {
+            "linkcnname": "测试综艺3",
+            "colorposname": "测试节目测试综艺~~~~~",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2278,
+            "linksubid": 0,
+            "linkplayid": "4-3"
+        },
+        {
+            "linkcnname": "测试综艺4",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2226,
+            "linksubid": 0,
+            "linkplayid": "4-4"
+        },
+        {
+            "linkcnname": "测试综艺5",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2289,
+            "linksubid": 7,
+            "linkplayid": "4-5"
+        },
+        {
+            "linkcnname": "测试综艺6",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2216,
+            "linksubid": 0,
+            "linkplayid": "4-6"
+        },
+        {
+            "linkcnname": "测试综艺7",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2236,
+            "linksubid": 1,
+            "linkplayid": "4-7"
+        },
+        {
+            "linkcnname": "测试综艺8",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2265,
+            "linksubid": 0,
+            "linkplayid": "4-8"
+        },
+        {
+            "linkcnname": "测试综艺9",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2298,
+            "linksubid": 0,
+            "linkplayid": "4-9"
+        },
+        {
+            "linkcnname": "测试综艺10",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2207,
+            "linksubid": 3,
+            "linkplayid": "4-10"
+        },
+        {
+            "linkcnname": "测试综艺11",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-11"
+        },
+        {
+            "linkcnname": "测试综艺12",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-12"
+        },
+        {
+            "linkcnname": "测试综艺13",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-13"
+        },
+        {
+            "linkcnname": "测试综艺14",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-14"
+        },
+        {
+            "linkcnname": "测试综艺15",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-15"
+        },
+        {
+            "linkcnname": "测试综艺16",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-16"
+        },
+        {
+            "linkcnname": "测试综艺17",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-14"
+        },
+        {
+            "linkcnname": "测试综艺18",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-15"
+        },
+        {
+            "linkcnname": "测试综艺19",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-16"
+        },
+        {
+            "linkcnname": "测试综艺20",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-14"
+        },
+        {
+            "linkcnname": "测试综艺21",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-15"
+        },
+        {
+            "linkcnname": "测试综艺22",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-16"
+        },
+        {
+            "linkcnname": "测试综艺23",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-14"
+        },
+        {
+            "linkcnname": "测试综艺24",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-15"
+        },
+        {
+            "linkcnname": "测试综艺25",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-16"
+        },
+        {
+            "linkcnname": "测试综艺26",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-14"
+        },
+        {
+            "linkcnname": "测试综艺27",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-15"
+        },
+        {
+            "linkcnname": "测试综艺28",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkcategoryid": 2,
+            "linkmainid": 2244,
+            "linksubid": 0,
+            "linkplayid": "4-16"
+        }
+    ],
+    "updatetime": 1468824150,
+    "expiretime": 30
+}

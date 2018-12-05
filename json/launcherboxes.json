@@ -1,0 +1,76 @@
+{
+    "colorlist": [
+        {
+            "linkcnname": "海信高清电影高清电影高清电影高清电影高清电影测试1",
+            "colorposname": "电影",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkrootid": 5,
+            "linkcategoryid": 2,
+            "linkmainid": 323,
+            "linksubid": 0,
+            "linkplayid": 0
+        },
+        {
+            "linkcnname": "zt剧集测试测试测试测试测试0223",
+            "colorposname": "电视剧",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkrootid": 16,
+            "linkcategoryid": 2,
+            "linkmainid": 978,
+            "linksubid": 0,
+            "linkplayid": 0
+        },
+        {
+            "linkcnname": "海信综艺测试资源1",
+            "colorposname": "综艺综艺综艺综艺综艺综艺",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cat.jpg",
+            "linkrootid": 4,
+            "linkcategoryid": 2,
+            "linkmainid": 177,
+            "linksubid": 0,
+            "linkplayid": 0
+        },
+        {
+            "linkcnname": "海信剧集测试3",
+            "colorposname": "电影",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkrootid": 3,
+            "linkcategoryid": 2,
+            "linkmainid": 225,
+            "linksubid": 0,
+            "linkplayid": 0
+        },
+        {
+            "linkcnname": "测试节目5",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkrootid": 16,
+            "linkcategoryid": 2,
+            "linkmainid": 3780,
+            "linksubid": 0,
+            "linkplayid": 0
+        },
+        {
+            "linkcnname": "测试测试测试测试节目6",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkrootid": 3,
+            "linkcategoryid": 2,
+            "linkmainid": 374,
+            "linksubid": 0,
+            "linkplayid": 0
+        },
+        {
+            "linkcnname": "测试节目7",
+            "colorposname": "",
+            "picurl": "http://211.100.75.219/hisense/hisntvtestsrv/img/cctv.png",
+            "linkrootid": 4,
+            "linkcategoryid": 2,
+            "linkmainid": 187,
+            "linksubid": 0,
+            "linkplayid": 0
+        }
+    ],
+    "updatetime": 1468824150,
+    "expiretime": 30
+}
